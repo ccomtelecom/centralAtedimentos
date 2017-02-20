@@ -1,0 +1,17 @@
+{
+  "name": "centralAtedimentos",
+  "homepage": "https://github.com/ccomtelecom/centralAtedimentos",
+  "authors": [
+    "José Filipe Lima Chaves"
+  ],
+  "description": "Central Web de Atendimentos e Contatos Controle C-ComTelecom",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "central_atendimentos",
+  "version": "1.0.0",
+  "description": "Central Web de Atendimentos e Contatos Controle C-ComTelecom",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccomtelecom/centralAtedimentos.git"
+  },
+  "author": "José Filipe Lima Chaves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccomtelecom/centralAtedimentos/issues"
+  },
+  "homepage": "https://github.com/ccomtelecom/centralAtedimentos#readme"
+}

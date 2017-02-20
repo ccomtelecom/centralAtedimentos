@@ -1,2 +1,2 @@
 # centralAtedimentos
-Central de Atendimentos e Contatos Controle C-ComTelecom
+Central Web de Atendimentos e Contatos Controle C-ComTelecom
